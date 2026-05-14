@@ -8,7 +8,7 @@ ALL PRODUCTS
 
 ### Stereo PCM --> Lossless, tiene 2 chaenels (Left and right) 
 
-<PCM (PULSO CODE MODULATION)>: Estandar para pasar sonido de enalago a digital. Toma los waves y lo convierte en binario.  
+<PCM (PULSE CODE MODULATION)>: Estandar para pasar sonido de enalago a digital. Toma los waves y lo convierte en binario.  
 
 <Sample rate>: 44.1 khz 48 khz, 96 khz
 
@@ -60,6 +60,17 @@ Sonos ARC, Arc SL, Arc Ultra and beam Gen 2:
 - Required eARC and enough Bandwidth
 - Does not pass through optical audio or standard ARC
 
+### Multichannel PCM
+- The devices decodifica y manda PCM channels 
+- Lossless 
+- High QA 
+- El source debe ser lossless before decording
+
+### Dolby Multichannel PCM
+
+- Dolby Spatial Metadata involved
+- Dolby MAT
+
 
 Audio technology
 
@@ -82,11 +93,15 @@ Audio technology
 2.0 --> Stero 
 1.0 --> Mono
 5.1 --> Dolby Digital y DTS
+7.1 --> 
+
 
 Compresion: Sube low frecuencis and discart the ones that are not needed
 
 x.       x.         x
 F.L.R    SUB        Atmos
+7.       1.         ()
+
 
 
 
