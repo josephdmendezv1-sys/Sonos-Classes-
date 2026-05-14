@@ -1,0 +1,94 @@
+
+
+05/14/2026
+
+Marcos - Home teather - AUDIO FORMATS
+
+ALL PRODUCTS 
+
+### Stereo PCM --> Lossless, tiene 2 chaenels (Left and right) 
+
+<PCM (PULSO CODE MODULATION)>: Estandar para pasar sonido de enalago a digital. Toma los waves y lo convierte en binario.  
+
+<Sample rate>: 44.1 khz 48 khz, 96 khz
+
+<Bit depth>: 16 bit 24 bit bajar el bit, baja la calidad
+
+
+### Dolby Digital (AC-3)
+
+- AC (Compressed sorround)
+- Supports 5.1 
+- Lossy Compression
+- Low bandwidth requirements, works ARC and optical 
+- 5 cantidad de Chanels
+- .1 Cantidad de bajas 
+- Less precise - Low fidelity 
+
+### DTS (Digital theater Systems) 
+- Same features than Dolby Digital but higher bitrates than DD
+- Issues with TV with delays 
+
+Sonos ARC, Arc SL, Arc Ultra and beam Gen 2: 
+
+### Dolby Digital Plus (E-AC-3)
+
+-This is a the standard
+- Improved from Dolby Digital
+- Better QA a lower bitrates
+- Supports more channels 
+
+
+### Dolby Atmos (Still Dolby Digital Plus)
+- Atmos Compressed lower bitrate
+- It works in Dolby Digital Plus
+- Lossy
+- HDMI eARC
+- Lower than true HD atmos
+- Atmos is not a Codec
+
+### Dolby TrueHD* 
+- Lossless High end codec
+- Lessless Compression
+- Bit perfect, Higher bitrate 
+- Spatial Details, Dyanamics, separation, bass precision
+
+
+### Dolby Atmos (True HD)
+- Best atmos format available
+- Combines Dolby Atmos matadata and Dolby TrueHD lossless audio
+- Required eARC and enough Bandwidth
+- Does not pass through optical audio or standard ARC
+
+
+Audio technology
+
+1) Codec/ Compression:
+2) Channel Format:
+3) Transport method: 
+
+- Puden ser afectados por surce (Como apps de video, peliculas o audio), internet bandwith and device.
+- Para tener mejor resultados todo debe coexistir y ser compatible 
+- Se comprime y requiere menos bandwith 
+- Codec remueven los que no podemos usar
+
+2 tipos de compression
+
+*LOSSLESS : No pierde la calidad del audio
+*LOSSY : Remueve data para hacerlo mas pequeno 
+
+
+
+2.0 --> Stero 
+1.0 --> Mono
+5.1 --> Dolby Digital y DTS
+
+Compresion: Sube low frecuencis and discart the ones that are not needed
+
+x.       x.         x
+F.L.R    SUB        Atmos
+
+
+
+
+
