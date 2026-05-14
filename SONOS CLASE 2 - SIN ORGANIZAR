@@ -126,7 +126,7 @@ Beam: It does has a Optical
 <Sub differences>
 * They have small differences in the shape 
 
-* Siempre 
+Adrian network concepts 
 
 
 ![alt text](image.png)
@@ -137,3 +137,8 @@ Beam: It does has a Optical
 Eero: 192.168.4.0 - 192.168.7.255
 
 ![alt text](image-2.png)
+
+Manage and unmanaged swtich
+
+## Bluetooth low energy
+No es bluetooth como tal, permite al celular encontrar y comunicarse mientras el speaker manda la info del router 
