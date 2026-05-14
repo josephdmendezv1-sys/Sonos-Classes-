@@ -31,11 +31,11 @@ PORTABLE SPEAKERS
 
 Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  USB-C    Battery  Waterproof  Stereo  SonosNet
 --------------------------------------------------------------------------------------------------------------------------------
-Sonos Move              YES    NO        YES        YES        YES  YES        NO       YES      YES          YES     NO
-Sonos Move 2            YES    ADAPTER   YES        YES        YES  YES        YES      YES      YES          YES     NO
+Sonos Move              YES    NO        YES        YES        YES  YES        NO       YES      Resistent    YES     NO
+Sonos Move 2            YES    ADAPTER   YES        YES        YES  YES        YES      YES      Resistent    YES     NO
 Sonos Roam              YES    NO        YES        YES        YES  YES        NO       YES      YES          YES     NO
 Sonos Roam 2            YES    NO        YES        YES        YES  YES        NO       YES      YES          YES     NO
-
+Sonos Play              YES    NO        YES        YES        YES  YES        YES      YES      Resistent    YES     NO
 
 ====================================================================
 SOUNDBARS / HOME THEATER
@@ -128,3 +128,81 @@ MODERN WI-FI ONLY ARCHITECTURE
 - Sonos Roam 2
 - Sonos Move
 - Sonos Move 2
+
+====================================================================
+LINE-IN (ANALOG / AUDIO INPUT)
+====================================================================
+LINE-IN NATIVO
+
+Sonos Five
+Sonos Play:5 (Gen 2)
+Sonos Play:5 (Gen 1)
+Sonos Play:3
+Sonos Amp
+Sonos Port
+Sonos Connect (Gen 1)
+Sonos Connect (Gen 2)
+Sonos Connect:Amp (Gen 1)
+Sonos Connect:Amp (Gen 2)
+
+====================================================================
+LINE-IN VIA ADAPTADOR (USB-C / LINE-IN ADAPTER)
+====================================================================
+
+Sonos Era 100
+Sonos Era 300
+Sonos Move 2
+
+SIN LINE-IN
+
+Sonos Arc
+Sonos Arc Ultra
+Sonos Beam (Gen 1)
+Sonos Beam (Gen 2)
+Sonos Ray
+Sonos Playbar
+Sonos Playbase
+Sonos One
+Sonos One SL
+Sonos Move (Gen 1)
+Sonos Roam
+Sonos Roam 2
+
+====================================================================
+SOUND BARS INPUT METHODS (CORRECTED)
+====================================================================
+
+IMPORTANT:
+Soundbars do NOT support line-in, RCA, or analog input.
+
+====================================================================
+HDMI ARC / eARC (TV INPUT ONLY)
+====================================================================
+
+Sonos Arc
+Sonos Arc Ultra
+Sonos Beam (Gen 1)
+Sonos Beam (Gen 2)
+
+====================================================================
+OPTICAL INPUT (TV INPUT ONLY)
+====================================================================
+
+Sonos Ray
+Sonos Playbar
+Sonos Playbase
+
+====================================================================
+NO HDMI / NO OPTICAL INPUT
+====================================================================
+
+Sonos Move
+Sonos Move 2
+Sonos Roam
+Sonos Roam 2
+Sonos One
+Sonos One SL
+Sonos Five
+Sonos Amp
+Sonos Port
+Sonos Connect series
