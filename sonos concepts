@@ -213,3 +213,12 @@ It does not matter the model of the device it can be use for grouping
 
 ## Bluetooth grouping:
 Sonos play y move 2, up to 4
+
+## Station mode:
+
+All connected to WI fi
+
+## Sonos MAC address for internet net:
+Cuando muchos estan conectados via ethernet cable, el que tengo el menor MAC es el que hace el bridge 
+El menor MAC se determina por los numeros y las letras 
+
