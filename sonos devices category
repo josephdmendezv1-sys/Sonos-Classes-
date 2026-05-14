@@ -41,9 +41,9 @@ Sonos Play              YES    NO        YES        YES        YES  YES        Y
 SOUNDBARS / HOME THEATER
 ====================================================================
 
-Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  HDMI ARC  Optical  Atmos  Surround  SonosNet
---------------------------------------------------------------------------------------------------------------------------------
-Sonos Arc               YES    YES       NO         YES        YES  YES        YES       ADAPTER  YES     YES       YES
+Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  HDMI ARC  Optical  Atmos  Surround  SonosNet      Sound motion
+----------------------------------------------------------------------------------------------------------------------------------------------
+Sonos Arc               YES    YES       NO         YES        YES  YES        YES       ADAPTER  YES     YES       YES             Yes
 Sonos Arc Ultra         YES    YES       YES        YES        YES  YES        YES       ADAPTER  YES     YES       YES
 Sonos Beam Gen 1        YES    YES       NO         YES        YES  YES        YES       ADAPTER  NO      YES       YES
 Sonos Beam Gen 2        YES    YES       NO         YES        YES  YES        YES       ADAPTER  YES     YES       YES
@@ -206,3 +206,14 @@ Sonos Five
 Sonos Amp
 Sonos Port
 Sonos Connect series
+
+====================================================================
+
+Subs
+====================================================================
+
+Sonos Sub 1
+Sonos Sub 2
+Sonos Sub 3
+Sonos Sub 4
+Sonos Sub mini
