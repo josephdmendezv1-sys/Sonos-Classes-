@@ -1,0 +1,150 @@
+
+
+## Introduce
+* N/A
+
+## Greeting
+* N/A
+
+## Acknoledge the issue (x)
+
+* Confirmed that the customer is having a couple of issues with the Wi fi/ Internet, it is disconnecting, and it happens ramdonly. Everything is connected hard wired. Customer does have a Mesh System, Agent will confirm if the issue is related to the bridge mode. Customer is concerned about the updates and he did turned it off. 
+
+ 
+## Refresing the issue (x)
+
+* Wi fi/ Internet issues intermitently.
+* Customer thinks that it happens because of Sonos.
+
+## Proving questions
+
+* Missing to confirm how the system is configured. Even the customer was self explanatory.
+
+* He could asked about what he means about the disconnection. 
+
+## TS steps: 
+
+* Agent did a diagnostic, tell the customer to create the case correctly.
+* Agent guided the customer to go to settings and updates and apply the update 
+* Explained the diagnostic, and that the system is using wireless instead of the ethernet.
+* Explained what the bridge mode is and advised that someone can do it for him. Customer was told that needs to be plugged in. 
+* Customer will be re directed to Google to do the bridge mode. 
+
+# Resolution:
+
+* Customer was told that needs to create a bridge mode for his mesh system.  Was told that what he did looking at the information online. Always when there are updates we may install, always when there is on mesh, customer have to be in bridge mode. 
+
+# Test the solution: 
+
+* Missing but customer has been given a case number and was told that this happen to all of the customer. 
+
+## Expectections: 
+
+* Bridge mode will send the information to the correct router. 
+
+* 
+
+
+
+
+
+## Introduce
+*  Marco
+
+## Greeting
+* Thank you for calling Sonos Technical support and 
+
+## Acknoledge the issue (x)
+* Water damage in the house, and less audio in the Sonos System.
+
+## Refresing the issue (x)
+* Issue was refrased and confirmed that water can damage the system. Not sure if there was water damage
+
+## Create a case:
+
+* Before moving forward create a case
+
+# Diagnostic: 
+* It was before prooving questions 
+
+## Proving questions
+
+* No Proving questions
+
+## TS steps: 
+
+* 
+
+# Resolution:
+
+* 
+
+# Test the solution: 
+
+* 
+
+## Expectections: 
+
+
+
+
+
+
+
+## Greeting
+* Thank you for calling Sonos Technical support and
+* Asking for the name and prefered information to create the case 
+
+## Acknoledge the issue (x)
+* Confirmed with the customer that cannot control the Sonos system using the PC
+* Customer confirmed that was using the app first and then the website
+
+## Refresing the issue (x)
+* Agent did confirmed it
+
+## Create a case:
+* Case created with the basic informaiton of the issue
+* Agent changed the name because that was the name given to him
+
+# Diagnostic: 
+*  Confirmed with the customere the case number to take a look at the diganostic
+* Diagnostic will tell the guru that can follow
+## Proving questions
+
+* Confirm the model and make of the device
+* Confirmed how the customer is accesing to the computer
+* Asked fopr shortcut 
+* Asked where he was playing the system
+
+## TS steps: 
+
+* Guided the customer to make a diagnostic in the PC. Used guru to find the steps to guide the customer. 
+* Make a remote sesion 
+<!-- * Read a desclosure to make the go to assist  -->
+*Provided with the website that can be used for the remote go to assist
+* Agent have to sign in to make the remote sessions 
+* Explaiend that he will se the name  and PIN number 
+* This will download an application
+* Open Sonos in the app 
+* Always tell the customer what we are doing and why. 
+* Agent confirmed tha the Wi fi was correct and the same with the diagnostic information
+* Agent tried to install the app but it failed
+* Customer will uninstall the app and then re install it following gurus instructions
+
+# Resolution:
+
+* Customer confirmed that this is the interface that he used to see. 
+* Customer plays to music
+
+# Test the solution: 
+
+* Play something in the system to test the system
+* Customer confirmed that the system is actually playing music
+
+
+## Expectections: 
+
+* No expectations given
+
+## Personal notes:
+* We are not guiding the customer instead, we are doing things for them. 
