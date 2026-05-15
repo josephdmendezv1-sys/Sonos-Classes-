@@ -1,2 +1,21 @@
 
 We cannot change emails for customers
+
+
+## LED test / Diagnostic mode / Network connection: 
+
+* Oranage solid: It does have an IP and pass DHCP (It can be blocked) 
+* Orange flashing : Router and DHCP no IPs 
+* Green Solid: Ethernet cable is working
+* Green blinking: Ethernet cable down
+* Solid red: End/ Begin of the cycle
+
+### LED Lights/ Status lights
+
+* Solid White - Sonos is working
+* Solid blue - Bluetooth
+* Flashing blue - Pairing mode
+* Solid red - Amp foult, time out after factory reset, update error 
+* Solid green
+* Solid amber
+Refer to: https://support.sonos.com/en-us/article/sonos-led-lights
