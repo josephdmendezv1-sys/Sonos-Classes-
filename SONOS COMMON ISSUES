@@ -2,7 +2,15 @@
 
 Devices common issues
 
-SONOS 5 ---> Tarjeta de Wi Fi
+Issue: Play 5 gen 2 Tarjeta de Wi Fi
 Audio delays --> Customer is using DTS in TV and affects the audio
 
 Beam --> They want to add more devices than the allowed 5.0
+
+If a device cannot be found is because UPEN
+
+Issue: Error code 1001 - the update failed investigate
+Solution: Investigate to Wi fi network Wi fi
+
+Issue: Customer trying to connect device that does not support 5g to a dual- smart- smartstering network - Band stering
+Solution: Split the network to allow 2.4
