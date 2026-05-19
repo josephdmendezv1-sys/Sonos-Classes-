@@ -32,3 +32,36 @@ Si no estaba validado
 "Hi, this is [AGENT], from Sonos. It seems our call was dropped. Can we assist you further with your inquiry? Before we proceed, may I please verify your name/email/phone number?
 
 
+ Example call 1
+ 
+Full home teather system a couple of stereopair
+Cannot find any other speaker and this is happening all the time
+
+Can only see one device 
+
+It is happening all the time 
+
+Name: Adrian Chacon 
+Phone: sonoslab 
+System: Existing/New  
+App / Controller: Android (Sonos app)
+Sonos product and room name: 3842 
+Troubleshooting: (Include relevant topo, Guru, and diag w/explanation in steps)
+
+
+* Diagnostic 
+Went ot the sonos app to run a diagnostic
+536435554
+* Topology: Apple router A1521 > TP link  ))) Sonos
+* 
+* Guru: 
+*  
+* Dialog: 38420bb96738F
+
+If resolved
+Summarize the resolution: Sonos Desktop app insgtalled and web version Enabled
+Final Diag: Issue Resolved
+If not resolved
+Recommended next steps and Guru cards:
+Actions or tests the customer will do:
+
